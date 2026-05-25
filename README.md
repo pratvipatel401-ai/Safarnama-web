@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 **Email**: amitvirpara@outlook.com
+- 📧 **Email**: pratvipatel401@gmail.com
 - 💬 **Issues**: Open a GitHub issue
 - 📱 **Mobile**: Check mobile-specific guides
 
